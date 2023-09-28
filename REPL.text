@@ -1,0 +1,17 @@
+PS C:\Users\Bereket\Node Complete> node
+Welcome to Node.js v16.13.1.
+Type ".help" for more information.
+> 32+50
+82
+> let user={name:"jane", age:50}
+undefined
+> user.name
+'jane'
+> user.age
+50
+> _+20
+70
+>
+(To exit, press Ctrl+C again or Ctrl+D or type .exit)
+> .exit
+PS C:\Users\Bereket\Node Complete>
